@@ -2,7 +2,7 @@
 
 int main(){
     char ch;
-    scanf("%c",&ch);
+    scanf("%d",&ch);
     printf("ASSCI Value: %d",ch);
     return 0;
 
