@@ -2,8 +2,8 @@
 
 int main(){
     char ch;
-    scanf("%d",&ch);
-    printf("ASSCI Value: %d",ch);
+    scanf("%c",&ch);
+    printf("ASCCI Value: %d",ch);
     return 0;
 
 }
