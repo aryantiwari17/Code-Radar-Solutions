@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(){
-    char ch=[];
+    char ch='';
+    scanf("%d",&ch)
     printf("ASSCI Value: %d",ch);
     return 0;
 
