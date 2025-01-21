@@ -2,7 +2,7 @@
 
 int main(){
     char ch='a';
-    printf("%d",ch);
+    printf("ASSCI Value: %d",ch);
     return 0;
 
 }
