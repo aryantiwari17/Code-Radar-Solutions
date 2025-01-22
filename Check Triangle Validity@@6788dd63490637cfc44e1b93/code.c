@@ -6,10 +6,10 @@ int main() {
     if((a+b)>c){
         printf("Valid");
     }
-    else if((b+c)>a){
+    if else((b+c)>a){
         printf("Valid");
     }
-    else if{
+    if else((c+a)>b){
         printf("Valid");
     }
     else{
