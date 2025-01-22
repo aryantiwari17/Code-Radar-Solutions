@@ -7,10 +7,10 @@ int main() {
         if(b+c>a){
             printf("Valid");
         }
-        printf("Valid")
+        printf("Valid");
     }
     else{
-        printf("Invalid")
+        printf("Invalid");
     }
     return 0;
 }
