@@ -3,14 +3,17 @@
 int main() {
     int a,b,c;
     scanf("%d %d %d ",&a,&b,&c);
-    if(a+b>c || a+c>b){
-        if(b+c>a){
-            printf("Valid");
-        }
+    if((a+b)>c){
+        printf("Valid");
+    }
+    else if((b+c)>a){
+        printf("Valid");
+    }
+    else if{
         printf("Valid");
     }
     else{
-        printf("Invalid");
+        printf("Invalid")
     }
     return 0;
 }
