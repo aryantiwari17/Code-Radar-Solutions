@@ -5,10 +5,10 @@ int main() {
     int a,b;
     scanf("%d %d",&a,&b);
     if(a>b){
-        printf("%d",Yes);
+        printf("Yes");
     }
     else{
-        printf("%d",No);
+        printf("No");
     }
     return 0;
 }
