@@ -2,8 +2,8 @@
 int main(){
     int a;
     while(a<7){
-        if(a==1){
-        printf("Monday")
+    if(a==1){
+    printf("Monday")
     }
     else if(a==2){
         printf("Tuesday")
