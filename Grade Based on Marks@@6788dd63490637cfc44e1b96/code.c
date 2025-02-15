@@ -19,7 +19,7 @@ int main(){
         printf("D");
 
     }
-    else if(a<60){
+    else{
         printf("F");
     }
     return 0;
