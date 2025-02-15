@@ -6,7 +6,7 @@ int main(){
     if(b==a*a){
         printf("Yes");
     }
-    else(b!=a*a){
+    else if(b!=a*a){
         printf("No");
     }
     return 0;
