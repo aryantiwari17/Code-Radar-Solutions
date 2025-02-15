@@ -6,7 +6,7 @@ int main() {
     scanf("%d %d %d", &a, &b, &c);
 
     // Checking if the sides form a valid triangle
-    if (a + b > c || b + c > a || c + a > b) {
+    if (a + b >= c || b + c >=a || c + a >= b) {
         printf("Valid");
     }
     else {
