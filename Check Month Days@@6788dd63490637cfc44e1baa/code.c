@@ -17,7 +17,7 @@ int main() {
             printf("March\n");
             break;
         case 4:
-            printf("April\n");
+            printf("30\n");
             break;
         case 5:
             printf("May\n");
@@ -41,7 +41,7 @@ int main() {
             printf("November\n");
             break;
         case 12:
-            printf("December\n");
+            printf("31\n");
             break;
         default:
             printf("Invalid month\n");
