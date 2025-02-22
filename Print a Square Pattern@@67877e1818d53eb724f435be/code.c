@@ -8,7 +8,7 @@ int main()
     {
         for(int i=1;i<=n;i++)                         //inner loop star in each line {no. of columns}
     {
-        printf("* "); 
+        printf("\n* "); 
     }
         printf("\n");
     }
