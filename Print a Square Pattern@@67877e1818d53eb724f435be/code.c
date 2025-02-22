@@ -2,7 +2,7 @@
 int main()
 {
     int n;
-    printf("enter the number : \n");
+    printf("");
     scanf("%d",&n);
     for(int i=1; i<=n;i++)                          //outer loop no. of lines decide kar raha ha {no. of rows }
     {
