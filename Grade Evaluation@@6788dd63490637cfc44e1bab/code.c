@@ -5,9 +5,7 @@
 
 int main(){
     char ch;
-    int n;
-    printf("");
-    scanf("%c",&n);
+    scanf("%c",&ch);
     if(ch=='A'){
         printf("Excellent");
     }
