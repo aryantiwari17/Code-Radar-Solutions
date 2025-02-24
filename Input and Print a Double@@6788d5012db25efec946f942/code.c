@@ -1,9 +1,10 @@
+
 #include <stdio.h>
 
-int main(){
-    double a;
-    printf("");
-    scanf("%1f",&a);
-    printf("You entered: %.1f",a);
+int main() {
+    double num;
+    printf("")
+    scanf("%lf", &num);
+    printf("You entered: %.10lf\n", num);
     return 0;
 }
