@@ -5,6 +5,7 @@
 
 int main(){
     char ch;
+    int n;
     printf("");
     scanf("%c",&n);
     if(ch=='A'){
