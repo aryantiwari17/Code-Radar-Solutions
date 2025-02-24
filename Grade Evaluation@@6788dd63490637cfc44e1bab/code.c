@@ -21,5 +21,8 @@ int main(){
     else if(ch=='F'){
         printf("Fail");
     }
+    else{
+        printf("Invalid grade");
+    }
     return 0;
 }
